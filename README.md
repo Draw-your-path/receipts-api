@@ -16,4 +16,4 @@ composer require symfony/twig-bundle
 ```
 composer require --dev friendsofphp/php-cs-fixer
 ```
-Launch: ```vendor/bin/php-cs-fixer fix --dry-run --diff```
+Launch: ```composer fix|check```
